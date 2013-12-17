@@ -23,4 +23,6 @@ This document is made by [gitfab](http://gitfab.org)
 
 ![スクリーンショット 2013-12-10 11.52.56.png](https://raw.github.com/shinkiba0103/open-source-mouse/master/gitfab/resources/スクリーンショット-2013-12-10-11.52.56.png)
 トラックボールのセンサ部分を先週まで作っていた切り離したトラックボールの機構部分に埋め込んで、導線で元の回路に繋ぐような形をとっている。しかしどこかで断線しているのかUSBをつないでもうまく動かなかった。壊した後で通電チェックをしたので元のセンサの通電チェックが出来なかった。新しいマウスが手に入ったのでそちらで検証を行い比較してまた通電チェックを虱潰しに探すつもりである。ちなみにセンサは外からの光が入っても動作することがわかったので、原因は基本的に回路のどこかにあると思う。
+
+[IMG_3860.MOV](https://raw.github.com/shinkiba0103/open-source-mouse/backhand-mouse/)
 ---
